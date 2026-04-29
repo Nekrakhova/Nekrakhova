@@ -15,7 +15,7 @@
 ## 📇 Знания и навыки
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,html,css,pycharm,postgres,mysql,mongodb,linux,git,github,postman,react,javascript,nodejs,fastapi" alt="Skills Icons">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,html,css,pycharm,postgres,mysql,mongodb,linux,git,postman,react,javascript,nodejs" alt="Skills Icons">
 </p>
 
 ---
