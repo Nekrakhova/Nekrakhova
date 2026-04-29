@@ -23,7 +23,7 @@
 
 - [Stepik — «Поколение Python»: курс для начинающих](https://stepik.org/cert/2909194)
 - [Stepik — «Поколение Python»: курс для продвинутых](https://stepik.org/cert/3231154)
-- [Stepik — «Осноы Git и GitHub](https://stepik.org/cert/3129865)
+- [Stepik — «Основы Git и GitHub](https://stepik.org/cert/3129865)
 - [Astra Linux — 1702](assets/Некрасова%20Анна%20Валерьевна.AL-1702.pdf)
 - [Astra Linux — 1703](assets/Некрасова%20Анна%20Валерьевна.AL-1703.pdf)
 
